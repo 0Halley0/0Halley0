@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **haleberins@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1raws_3wy84PayicCXvAIPuxBh7EttLMG?usp=sharing](https://drive.google.com/drive/folders/1raws_3wy84PayicCXvAIPuxBh7EttLMG?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hale-berin-sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hale-berin-sen" height="30" width="40" /></a>
