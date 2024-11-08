@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hale</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Lastfloors Web Site](https://lastfloors.com/)
+- 🔭 I’m currently working on **ForumUI**
 
-- 🌱 I’m currently learning **Kotlin Jetpack**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Vue, Flutter**
+- 💬 Ask me about **Vue, Flutter, Android**
 
 - 📫 How to reach me **haleberins@gmail.com**
 
